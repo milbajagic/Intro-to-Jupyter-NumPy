@@ -1,4 +1,4 @@
-# Intro-to-Jupyter
+# Intro to Jupyter
 ##### Jupyter Notebooks are a powerful way to write and iterate on your Python code for data analysis. [Jupyter](http://jupyter.org/index.html) isn’t a different programming language, it’s just a set of computer programs for working with the Python language. Having said that, having python is a prequisite for working with Jupyter Notebook.
 ## To istall Jupyter
 ##### * install [Anaconda](https://www.anaconda.com/download/) which is a free bundled installer of Python together with many other useful tools (including Jupyter Notebook and other libraries like matplotlib) 
@@ -20,3 +20,5 @@ python3 -m pip install jupyter`
 ##### You should see the notebook open in your default browser. If it doesn’t open, you can copy-paste the “http” address from the output and paste it into your browser.
 ##### You interact with Jupyter Notebook using your web browser. The Notebook program creates a “web server” locally on your computer that you then connect to. 
 ##### *Note:* Even though you’re interacting with Jupyter Notebook using your browser, Notebook is running right there on your computer in that window. Only you have access to it.
+
+##### For more info about running the Jupyter Notebook, check out [documentation](https://jupyter.readthedocs.io/en/latest/running.html#running) page.
